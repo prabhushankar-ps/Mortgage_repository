@@ -78,8 +78,5 @@ The line chart will display the decreasing remaining balance over time.
 
 ## Author
 **Prabhu Shankar**  
-GitHub: [Your GitHub Profile]  
-Email: [Your Email]  
+Email: prabhushankargv@gmail.com  
 
-## License
-This project is licensed under the MIT License.
